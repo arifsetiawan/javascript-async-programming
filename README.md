@@ -9,8 +9,19 @@
 * async with yield [codes/async-yield.js](codes/async-yield.js)
 * async await [codes/async-yield.js](codes/async-await.js)
 
-## Notes
+### Notes
 
 * `async plain` is async without helper library. To show that normal control flow will not work on async programming. We can write helper for that or use [async](https://github.com/caolan/async) module to help us.
 * `async with yield` is wrapping generator to combine both generator and promise and provide sync like syntax
 * `async await` is ES2016 proposal which provide syntactic sugar to async with yield above.
+
+## How to use
+
+```
+$ git clone https://github.com/arifsetiawan/javascript-async-programming
+$ cd javascript-async-programming
+$ npm install
+$ node codes/sync.js
+$ node codes/async-plain.js
+$ ...
+```
