@@ -36,6 +36,9 @@ function getJson(filename) {
     });
 }
 
+// http://pag.forbeslindesay.co.uk/#/22
+// http://2013.jsconf.eu/speakers/forbes-lindesay-promises-and-generators-control-flow-utopia.html
+// https://www.promisejs.org/generators/
 function async(makeGenerator) {
     return function() {
         var generator = makeGenerator.apply(this, arguments);
