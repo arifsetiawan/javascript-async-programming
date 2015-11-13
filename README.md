@@ -17,6 +17,8 @@
 
 ## How to use
 
+First, install [Node.js](https://nodejs.org/en/download/) first
+
 ```
 $ git clone https://github.com/arifsetiawan/javascript-async-programming
 $ cd javascript-async-programming
