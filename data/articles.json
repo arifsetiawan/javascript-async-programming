@@ -1,0 +1,17 @@
+[
+{
+    "title":"JavaScript Promises ... In Wicked Detail",
+    "author":"Matt Greer",
+    "url":"http://www.mattgreer.org/articles/promises-in-wicked-detail/"
+},
+{
+    "title":"Promises in AngularJS, Explained as a Cartoon",
+    "author":"Andy Shora",
+    "url":"http://andyshora.com/promises-angularjs-explained-as-cartoon.html"
+},
+{
+    "title":"We have a problem with promises",
+    "author":"Nolan Lawson",
+    "url":"http://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html"
+}
+]
